@@ -5,6 +5,13 @@
 2. Run the tests to verify your implementation.
 3. Ensure that your code follows good coding practices and is well-organized.
 
+### Setup
+* Run `npm install` to install the necessary dependencies.
+* Run `npm test` to run the tests.
+
+### Did someone say Typescript?
+For the first time ever you can checkout the branch `typescript` to see the same exercise implemented in Typescript.
+
 This should help you to not only understand the Strategy Design pattern but also practice writing and passing unit tests for their code.  
 
 #### Task:
@@ -23,4 +30,4 @@ You are to implement a simple text formatter application using the Strategy Desi
    - A set of JUnit tests to validate the implementation.
 
 #### Hint:
-If you want to see how it is done checkout the `solution` branch.
+If you want to see how it is done checkout the `typescript-solution` branch.
